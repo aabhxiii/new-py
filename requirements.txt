@@ -1,0 +1,7 @@
+protobuf==4.24.3
+git+https://github.com/aabhxiii/discord.py-self.git
+emoji
+python-dotenv
+Flask
+aiohttp
+pynacl
