@@ -1,5 +1,5 @@
 import discord
-from discord.ext import commands
+from discord.txt import commands
 import os
 import asyncio
 from transformers import pipeline
